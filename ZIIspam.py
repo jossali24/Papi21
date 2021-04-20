@@ -9,8 +9,8 @@ def main():
 	os.system('figlet papiking21')
 	banner='''
 
-	[+]AUTHOR:Papi king21
-	[+]Youtube : Papi King21
+	[+]AUTHOR:LS ZII boy
+	[+]Facebook : Mubarak
 	'''
 	print(banner)
 	no = input(' target : ')
